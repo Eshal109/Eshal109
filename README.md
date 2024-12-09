@@ -5,7 +5,7 @@
 - Pronouns: She/Her
 - You can reach me at eshal.kashif@stu.ocsb.ca
 - Fun Fact: I'v gone to over 5 countries!
-- I'v used:
+- I've used:
 - ![GitHub Copilot](https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white)
 
 - ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
