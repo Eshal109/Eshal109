@@ -5,6 +5,7 @@
 - Pronouns: She/Her
 - You can reach me at eshal.kashif@stu.ocsb.ca
 - Fun Fact: I'v gone to over 5 countries!
+- ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
 
 <!---
 Eshal109/Eshal109 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
